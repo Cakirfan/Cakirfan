@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 - 😇 Thank you for being here:👉[My linkedIn account](https://www.linkedin.com/in/irfan-cakir-2a21ab24b/)👈 <a href="https://www.linkedin.com/in/irfan-cakir-2a21ab24b/" target="_blank"><img align="center" src="https://tse2.mm.bing.net/th?id=OIP.VJhVCn_KEP55vMgXH9jepwHaHY&pid=Api&P=0&h=180" alt="Cakirfan" height="30" width="30"/></a>
 - ![](https://komarev.com/ghpvc/?username=Cakirfan)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
- <h1 align="center"><b>Statistics</b></h1>
+ <h1 align="center"><b>Statistics</b>🎯</h1>
  <table align="center">
 <tr border="none">
 <td width="50%" align="center">
@@ -37,7 +37,7 @@ You can click the Preview link to take a look at your changes.
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block"><b>Technologies</b> :technologe::hautton-2:</h1></summary>
+    <summary><h1 style="display: inline-block"><b>Technologies</b>🧑‍💻</h1></summary>
   </ul>
 </div>
 <!--tech stack icons-->
