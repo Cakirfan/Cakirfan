@@ -1,12 +1,66 @@
-- 👋 Hi, I’m @Cakirfan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
 <!---
 Cakirfan/Cakirfan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<h1 align="center"><b>Hi , I'm Irfan Cakir </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+glad+you+came..&hearts;++;Self-taught+Full-Stack+Developer;Computer+Science+Student;Active+Learner/Researcher;Love+to+learn+new+stuffs.."></a>
+</p>
+
+- :teleskop: I love maths, programming, web development and everything related to these topics:erröten:
+- :sämling: I’m addicted to learning and growing every day!
+- :unschuldig: Thank you for being here.:nach_rechts_zeigen:[My linkedIn account](https://www.linkedin.com/in/irfan-cakir-2a21ab24b/)👈 <a href="https://www.linkedin.com/in/irfan-cakir-2a21ab24b/" target="_blank"><img align="center" src="https://github.com/Cakirfan/blob/master/linkedin%20(1).png" alt="Cakirfan" height="30" width="30"/></a>
+- ![](https://komarev.com/ghpvc/?username=Cakirfan)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+ <h1 align="center"><b>Statistics</b></h1>
+ <table align="center">
+<tr border="none">
+<td width="50%" align="center">
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Cakirfan&theme=chartreuse-dark" alt="my github stats" width="100%"/>
+  <br></br>
+<img  title=":feuer: Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Cakirfan&theme=chartreuse-dark&hide_border=false" />
+</td>
+<td width="50%" align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Cakirfan&theme=chartreuse-dark&layout=compact" alt="languages" width="100%" height="100%">
+  </td>
+</tr>
+</table>
+
+<div align=center style="margin-bottom:3rem">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Cakirfan&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block"><b>Technologies</b> :technologe::hautton-2:</h1></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,bootstrap,tailwind,firebase,html,css,js,typescript,py,linux,md,materialui,sqlite,sass,nodejs,postman,styledcomponents,react,redux,ts,vscode,netlify&perline=14" />
+  </a>
+</p>
+
+<!-- ![](https://komarev.com/ghpvc/?username=Cakirfan) -->
+<!-- <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Cakirfan&theme=chartreuse-dark" alt="my github stats" width="45%"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=Cakirfan&theme=chartreuse-dark" alt="my commit status" width="45%" /> -->
+<!-- <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Cakirfan&theme=chartreuse-dark&layout=compact" alt="languages" width="45%"> -->
+
+![GIF Açıklaması](https://media0.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+Made by :  [Cakirfan](https://github.com/Cakirfan)
+
+Last Edited on: 21/6/2023
+<!-- 
+:link:<h1 align="center"><b>Connect with me</b></h1>
+<p align="left">
+
+<a href="https://twitter.com/Fatih__AY" target="_blank"><img align="center" src="https://github.com/Cakirfan/blob/master/twitter.png" alt="Cakirfan" height="30" width="30"/></a>      <a href="https://www.linkedin.com/in/irfan-cakir-2a21ab24b/" target="_blank"><img align="center" src="https://github.com/Cakirfan/blob/master/linkedin%20(1).png" alt="Cakirfan" height="30" width="30"/></a> -->
+
 
 
