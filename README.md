@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+glad+you+came..&hearts;++;Self-taught+Full-Stack+Developer;Computer+Science+Student;Active+Learner/Researcher;Love+to+learn+new+stuffs.."></a>
 </p>
 
-- ✨ I love maths, programming, web development and everything related to these topics😉
+- ✨ I love Logic, Geometry, Web Design, Maths, Programming, Web Wevelopment and everything related to these topics😉
 - 🌱 I’m addicted to learning and growing every day!
 - 😇 Thank you for being here:👉[My linkedIn account](https://www.linkedin.com/in/irfan-cakir-2a21ab24b/)👈 <a href="https://www.linkedin.com/in/irfan-cakir-2a21ab24b/" target="_blank"><img align="center" src="https://tse2.mm.bing.net/th?id=OIP.VJhVCn_KEP55vMgXH9jepwHaHY&pid=Api&P=0&h=180" alt="Cakirfan" height="30" width="30"/></a>
 - ![](https://komarev.com/ghpvc/?username=Cakirfan)
