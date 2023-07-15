@@ -1,3 +1,4 @@
+
 <!---
 Cakirfan/Cakirfan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -59,8 +60,3 @@ Last Edited on: 21/6/2023
 <!-- 
 :link:<h1 align="center"><b>Connect with me</b></h1>
 <p align="left">
-
-<a href="https://twitter.com/Fatih__AY" target="_blank"><img align="center" src="https://github.com/Cakirfan/blob/master/twitter.png" alt="Cakirfan" height="30" width="30"/></a>      <a href="https://www.linkedin.com/in/irfan-cakir-2a21ab24b/" target="_blank"><img align="center" src="https://github.com/Cakirfan/blob/master/linkedin%20(1).png" alt="Cakirfan" height="30" width="30"/></a> -->
-
-
-
