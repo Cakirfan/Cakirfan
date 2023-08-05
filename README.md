@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
    [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irfan-cakir%F0%9F%93%A2-2a21ab24b/) 
 <a href="https://github.com/Cakirfan" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages" height="28.5"/></a> <img src="https://komarev.com/ghpvc/?username=Cakirfan" alt="visitor counter"  height="28.5"/><br><br>
 
- <h1 align="center"><b>Statistics</b>🎯</h1>
+<h1 align="center"><b>Statistics</b>🎯</h1>
  <table align="center">
 <tr border="none">
 <td width="50%" align="center">
@@ -37,10 +37,13 @@ You can click the Preview link to take a look at your changes.
     </a>
 </div>
 
+<b><b>
+
+
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block"><b>Technologies</b>🧑‍💻</h1></summary>
+    <summary><h1 style="display: inline-block"><b>⚡ Languages & Frameworks & Tools & Abilities ⚡</h1></summary>
   </ul>
 </div>
 <!--tech stack icons-->
@@ -49,6 +52,7 @@ You can click the Preview link to take a look at your changes.
     <img src="https://skillicons.dev/icons?i=git,github,bootstrap,tailwind,firebase,html,css,js,py,linux,md,materialui,sqlite,sass,nodejs,postman,styledcomponents,react,redux,ts,vscode,netlify&perline=14" />
   </a>
 </p>
+
 
 <!-- ![](https://komarev.com/ghpvc/?username=Cakirfan) -->
 <!-- <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Cakirfan&theme=chartreuse-dark" alt="my github stats" width="45%"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=Cakirfan&theme=chartreuse-dark" alt="my commit status" width="45%" /> -->
