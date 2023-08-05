@@ -62,7 +62,8 @@ You can click the Preview link to take a look at your changes.
 <!-- <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Cakirfan&theme=chartreuse-dark&layout=compact" alt="languages" width="45%"> -->
 
 ![GIF Açıklaması](https://media0.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif)
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<br><br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+
 Made by :  [Cakirfan](https://github.com/Cakirfan)
 
 Last Edited on: 21/6/2023
