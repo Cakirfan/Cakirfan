@@ -12,12 +12,11 @@ You can click the Preview link to take a look at your changes.
 - ✨ I love Logic, Geometry, Web Design, Maths, Programming, Web Wevelopment and everything related to these topics😉
 - 🌱 I’m addicted to learning and growing every day!
 - 😇 Thank you for being here:👉[My linkedIn account](https://www.linkedin.com/in/irfan-cakir-2a21ab24b/)👈 <a href="https://www.linkedin.com/in/irfan-cakir-2a21ab24b/" target="_blank"><img align="center" src="https://tse2.mm.bing.net/th?id=OIP.VJhVCn_KEP55vMgXH9jepwHaHY&pid=Api&P=0&h=180" alt="Cakirfan" height="30" width="30"/></a>
-- ![](https://komarev.com/ghpvc/?username=Cakirfan)
--
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yaser-demet-42731421b/) 
-<a href="https://yaserdemet.github.io/" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages" height="28.5"/></a> <img src="https://komarev.com/ghpvc/?username=Cakirfan" alt="visitor counter"  height="28.5"/>
 
-- <br><br>
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irfan-cakir%F0%9F%93%A2-2a21ab24b/) 
+<a href="https://github.com/Cakirfan" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages" height="28.5"/></a> <img src="https://komarev.com/ghpvc/?username=Cakirfan" alt="visitor counter"  height="28.5"/>
+
+<br><br>
  <h1 align="center"><b>Statistics</b>🎯</h1>
  <table align="center">
 <tr border="none">
