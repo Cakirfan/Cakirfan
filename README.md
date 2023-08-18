@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 - 😇 Thank you for being here:👉[My linkedIn account](https://www.linkedin.com/in/irfan-cakir%F0%9F%93%A2-2a21ab24b/)👈
 
    [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irfan-cakir%F0%9F%93%A2-2a21ab24b/) 
-<a href="https://github.com/Cakirfan" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages" height="28.5"/></a> <img src="https://komarev.com/ghpvc/?username=Cakirfan" alt="visitor counter"  height="28.5"/><br><br>
+<a href="https://github.com/Cakirfan" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages" height="28.5"/></a> <a href="https://app.netlify.com/teams/cakirfan/overview" target="_blank"> <img src="https://tse4.mm.bing.net/th?id=OIP.jc_Q229CIR6T01eMzdapYgHaCA&pid=Api&P=0&h=180" alt="netlify" height="28.5" /></a> <img src="https://komarev.com/ghpvc/?username=Cakirfan" alt="visitor counter"  height="28.5"/><br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
