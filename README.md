@@ -55,7 +55,7 @@ You can click the Preview link to take a look at your changes.
   </a>
 </p><br><br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br> -->
 
 <!-- ![](https://komarev.com/ghpvc/?username=Cakirfan) -->
 <!-- <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Cakirfan&theme=chartreuse-dark" alt="my github stats" width="45%"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=Cakirfan&theme=chartreuse-dark" alt="my commit status" width="45%" /> -->
