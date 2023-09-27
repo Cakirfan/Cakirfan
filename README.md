@@ -13,7 +13,8 @@ You can click the Preview link to take a look at your changes.
 
 <p>- ✨ I love Logic, Geometry, Web Design, Maths, Programming, Web Wevelopment and everything related to these topics😉</p>
 <p>- 🌱 I’m addicted to learning and growing every day!</p>
-<p>- 😇 Thank you for being here:👉![My linkedIn account](https://www.linkedin.com/in/irfan-cakir%F0%9F%93%A2-2a21ab24b/)👈</p>
+<p>- 😇 Thank you for being here:👉[My linkedIn account](https://www.linkedin.com/in/irfan-cakir-/)👈 <a href="https://www.linkedin.com/in/irfan-cakir-/" target="_blank"></p>
+
 
 
 
