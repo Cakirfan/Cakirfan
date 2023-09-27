@@ -4,16 +4,18 @@ Cakirfan/Cakirfan is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-<img align="center">[![MasterHead](https://cdn.pixabay.com/photo/2018/03/01/05/46/business-3189797_640.png)</img> 
+<img width="100">![MasterHead](https://cdn.pixabay.com/photo/2018/03/01/05/46/business-3189797_640.png)</img>
 
 <h1 align="center"><b>Hi , I'm Irfan Cakir </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+glad+you+came..&hearts;++;Self-taught+Front-End+Developer;Computer+Science+Student;Active+Learner/Researcher;Love+to+learn+new+stuffs.."></a>
 </p>
 
-- ✨ I love Logic, Geometry, Web Design, Maths, Programming, Web Wevelopment and everything related to these topics😉
-- 🌱 I’m addicted to learning and growing every day!
-- 😇 Thank you for being here:👉[My linkedIn account](https://www.linkedin.com/in/irfan-cakir%F0%9F%93%A2-2a21ab24b/)👈
+<p>- ✨ I love Logic, Geometry, Web Design, Maths, Programming, Web Wevelopment and everything related to these topics😉</p>
+<p>- 🌱 I’m addicted to learning and growing every day!</p>
+<p>- 😇 Thank you for being here:👉![My linkedIn account](https://www.linkedin.com/in/irfan-cakir%F0%9F%93%A2-2a21ab24b/)👈</p>
+
+
 
    [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irfan-cakir%F0%9F%93%A2-2a21ab24b/) 
 <a href="https://github.com/Cakirfan" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages" height="28.5"/></a> <a href="https://app.netlify.com/teams/cakirfan/overview" target="_blank"> <img src="https://tse4.mm.bing.net/th?id=OIP.jc_Q229CIR6T01eMzdapYgHaCA&pid=Api&P=0&h=180" alt="netlify" height="28.5" /></a> <img src="https://komarev.com/ghpvc/?username=Cakirfan" alt="visitor counter"  height="28.5"/><br><br>
