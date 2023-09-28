@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+glad+you+came..&hearts;++;Self-taught+Front-End+Developer;Computer+Science+Student;Active+Learner/Researcher;Love+to+learn+new+stuffs.."></a>
 </p>
 
-- ✨ I love Logic, Geometry, Web Design, Maths, Programming, Web Wevelopment and everything related to these topics😉
+- ✨ I love Logic, Geometry, Web Design, Programming, Web Wevelopment and everything related to these topics😉
 - 🌱 I’m addicted to learning and growing every day!
 - 😇 Thank you for being here:👉[!My linkedIn account](https://www.linkedin.com/in/irfan-cakir-/)👈 <a href="https://www.linkedin.com/in/irfan-cakir-/" target="_blank">
 - 🧩🎓 My Portfolio  <a href="https://my-portfolio-gamma-snowy.vercel.app/" target="blank"> Here! </a>
@@ -39,7 +39,7 @@ You can click the Preview link to take a look at your changes.
 </tr>
 </table>
 
-<div align=center style="margin-bottom:3rem">
+<div align="center" style="margin-bottom:3rem">
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
       <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Cakirfan&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
@@ -67,8 +67,11 @@ You can click the Preview link to take a look at your changes.
 <!-- <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Cakirfan&theme=chartreuse-dark" alt="my github stats" width="45%"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=Cakirfan&theme=chartreuse-dark" alt="my commit status" width="45%" /> -->
 <!-- <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Cakirfan&theme=chartreuse-dark&layout=compact" alt="languages" width="45%"> -->
 
-![GIF Açıklaması](https://media0.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif)
-<br><br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+<!-- ![GIF Açıklaması](https://media0.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif) -->
+<p align="center">
+  <img align="center" src="https://media0.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif">
+</p>
+<br><br><img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 Made by :  [Cakirfan](https://github.com/Cakirfan)
 
